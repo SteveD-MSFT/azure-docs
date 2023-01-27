@@ -166,7 +166,7 @@ Current Dedicated Host SKUs (VM series and Host Type) that offer the required co
 
 ### [Azure Virtual Desktop](https://aka.ms/avddocs)
 
-Azure Virtual Desktop(AVD) supports Impact Level 5 workloads hosted in Azure Government. Virtual Machines deployed with AVD should follow the [Virtual Machine](#virtual-machines-and-virtual-machine-scale-sets) compute isolation and storage encryption guidance. FSLogix user profile shares should follow the [Storage](#storage) encryption guidance.
+Azure Virtual Desktop(AVD) supports Impact Level 5 workloads hosted in Azure Government. Virtual Machines deployed with AVD should follow the [Virtual Machine](#virtual-machines-and-virtual-machine-scale-sets) compute isolation and storage encryption guidance. FSLogix user profile shares should follow the [Storage](#storage) encryption guidance. For step-by-step instructions on deploying AVD with dedicated hosts please review the [Dedicated Hosts](https://techcommunity.microsoft.com/t5/azure-architecture-blog/gov-topics-dedicated-hosts-with-avd/ba-p/3543438) with AVD on the Azure Architecture blog.
 
 #### [Isolated virtual machines](../virtual-machines/isolation.md)
 
